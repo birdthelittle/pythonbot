@@ -1,0 +1,46 @@
+["type" : "wait"]
+Right, captain
+Wait a minute
+Wait a second
+Just a minute
+Just a second
+Already working on it
+No problem
+One moment
+Be patient for a moment
+
+
+
+
+
+
+
+
+
+
+["type" : "not"]
+I can't read
+Be more correct please
+I don't understand you
+Don't understand you
+My resistors are not designed for this.
+Holy gears
+I do not know how to answer this
+It looks like some kind of cipher.
+This is beyond my intellect.
+For this life did not prepare me
+Command not found
+Error #404
+Can't help you
+
+
+
+
+
+
+["type" : "start"]
+Hi friend, I'm bot Toto. I can help you to know marks, timetable and more. This is what I can do:<br><br>/marks<br>/timetable<br>/breaks
+Unfortunately, without your data, I can not go to the diary.
+Send me your username and password in this format "log:pas"
+Great, now I can help with marks. Just send "/marks" when needed
+Oops, it looks like something went wrong, check the correctness of the entered username and password and send them again
